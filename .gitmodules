@@ -1,0 +1,9 @@
+[submodule "CODSOFT1"]
+	path = CODSOFT1
+	url = https://github.com/amnaihm/CODSOFT1
+[submodule "CODSOFT2"]
+	path = CODSOFT2
+	url = https://github.com/amnaihm/CODSOFT2
+[submodule "CODSOFT3"]
+	path = CODSOFT3
+	url = https://github.com/amnaihm/CODSOFT3
